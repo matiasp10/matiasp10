@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Proyectos
+
+# JavaScript Vanilla
+
+- [Color Flipper](https://github.com/matiasp10/color-flipper)
+- [Counter](https://github.com/matiasp10/counter)
+
+# Ejercicios
+
+- [Ejercicios en JS](https://github.com/matiasp10/ejercicios-programacion-JS)
+- [Ejercicios CSS](https://github.com/matiasp10/ejercicios-css)
