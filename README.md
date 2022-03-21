@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [Counter](https://github.com/matiasp10/counter)
 - [Reviews](https://github.com/matiasp10/reviews)
 - [Verificacion de email](https://github.com/matiasp10/email-validation-js)
+- [Cube Runner (Like dino google)](https://github.com/matiasp10/cube-runner)
 
 # Ejercicios
 
