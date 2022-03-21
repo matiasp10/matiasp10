@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [Color Flipper](https://github.com/matiasp10/color-flipper)
 - [Counter](https://github.com/matiasp10/counter)
 - [Reviews](https://github.com/matiasp10/reviews)
+- [Verificacion de email](https://github.com/matiasp10/email-validation-js)
 
 # Ejercicios
 
