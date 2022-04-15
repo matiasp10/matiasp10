@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - [Reviews](https://github.com/matiasp10/reviews)
 - [Verificacion de email](https://github.com/matiasp10/email-validation-js)
 - [Cube Runner (Like dino google)](https://github.com/matiasp10/cube-runner)
+- [Corralon Lopez (Landing page)](https://github.com/matiasp10/Corralon-Lopez) - [Deploy](https://matiasp10.github.io/Corralon-Lopez/)
 
 # Ejercicios
 
