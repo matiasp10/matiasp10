@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 # Ejercicios
 
-- [Ejercicios en JS](https://github.com/matiasp10/ejercicios-programacion-JS)
+- [Ejercicios en JS](https://github.com/matiasp10/Ejercicios-JavaScript)
 - [Ejercicios CSS](https://github.com/matiasp10/ejercicios-css)
