@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | JavaScript | React
 ----------------------------------
 
-💼 I am a passionate, self-taught and proactive web developer, looking for my first opportunity to join a development team in a formal way. I have been practicing programming on my own for more than two years and have done several freelance projects that have allowed me to apply and strengthen my skills. My preferred programming language is JavaScript, and I am very comfortable working with technologies such as React, Next.js and Astro. 🧠 I am constantly challenging myself through Katas on data structures and algorithms, and participating in UI design challenges. My goal is to grow as a professional in this field, contribute innovative solutions and eventually make a living from what I am most passionate about: web development. 🏋🏻 I am willing to learn new technologies and methodologies that allow me to improve and adapt to the needs of the team and the projects in which I participate. If you are looking for someone committed, eager to learn and who loves what they do, I would love to be part of your team!
+💼 I am a passionate, self-taught and proactive web developer, looking for my first opportunity to join a development team in a formal way. I have been practicing programming on my own for more than two years and have done several freelance projects that have allowed me to apply and strengthen my skills. My preferred programming language is JavaScript, and I am very comfortable working with technologies such as React, Next.js and Astro. 
+
+🧠 I am constantly challenging myself through Katas on data structures and algorithms, and participating in UI design challenges. My goal is to grow as a professional in this field, contribute innovative solutions and eventually make a living from what I am most passionate about: web development. 
+
+🏋🏻 I am willing to learn new technologies and methodologies that allow me to improve and adapt to the needs of the team and the projects in which I participate. If you are looking for someone committed, eager to learn and who loves what they do, I would love to be part of your team!
 
 * 🌍  I'm based in Rio Cuarto, Cordoba, Argentina
 * 🖥️  See my portfolio at [Mi Portfolio](http://www.matiaspetenatti.tech/)
