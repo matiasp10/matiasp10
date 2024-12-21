@@ -15,6 +15,15 @@ Web Developer | JavaScript | React
 * ✉️  You can contact me at [matiasepetenatti@gmail.com](mailto:matiasepetenatti@gmail.com)
 * 🧠  I'm learning Astro, NextJS
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/matiasp10"
+    width="600"
+    height="120"
+  />
+</a>
+
 ### Skills
 
 <p align="left">
